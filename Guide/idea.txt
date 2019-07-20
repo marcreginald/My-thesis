@@ -1,0 +1,66 @@
+naay page para sa decision support system and forcasting wich is dashboard ang sa landing page
+ang summary lang sa naa sa dashboard which is kanang masabtan ra sa mga mo visit. daghay graph makita
+sa dashboard kay ga base man sa performance sa school, trainee and assessor. with real time
+kay mag suggest man syag schools nga affiliated sa tesda kung unsa ang best school para ana 
+nga course or unsa na training/course ang kusog karon mag base na sa forecasting i compare nya ang
+last year and karon kung unsa ang mas kusog.
+
+================================================
+Concept
+
+-Sample reports sa ilang forecasting
+-nc unsay sulod na coc ana and coc per program
+-tracking 
+-tesda offered courses
+-affiliated schools pwede sila mo access sa kana nga website for viewing of scholar approved 
+-forecasting
+-slot, courses and statistics
+	-bagsak,pasar,drop,re-take
+	-design sa statistics
+-email and sms notification 
+-profiling of nc holders
+-issuance of certificate
+
+pangayoon
+-sample documents
+
+-kinsa nga mga user allowed sa among site, affiliated schools 
+
+guiritan: naa syay portal para sa ilang site pero DAGHAN NGA AFFILIATED SCHOOLS PARA SA TESDA 
+castro: tracking, profiling, school/course offered, statistics sa nipasar sa nc
+
+mga affiliated schools under sa tesda makita didto trainees, scholars passed failed scholar nga coc ray
+gi pasaran unsay kulang nila ug kinsa tung naka trabaho. Validation certificate 
+
+==================================
+9:28 mins
+11:00 mins
+12:00 mins
+20:00 mins
+-what if dili ko ganahan ana nga nc; -forecasting example naay 100 kapin na nc naay book keeping etc
+ang gamit sa forecasting mag dicide kung i open paba ni nila na nc based sa historical data.
+
+-mag gamit og forcasting model
+
+forecasting naay i predict, expert system
+
+-pag mag forecast kinahanglan ug big data from last 10 or 5 years
+
+-makita sa forcasting ang trend na nc
+
+-industry kung daghan ang nagpa enroll ana from time to time kada tuig mas dako silag allocate na 
+budget ana. decision making sa management 
+-business inteligence
+
+PRE-DEF
+
+-Business analytics
+-unsay daghay naka pasar ani na curso, specific nc holder
+
+-mo suggest siyag tesda accredited centers nga low ang performance kay gagmayg passer mo suggest ug 
+mga unsa...
+-mo hatag ug ideas kung unsa inyo buhaton para ma imporve
+
+-acredited centers, certain passers kay based ato tan awon nila kung unsa ang pinaka nindot ang performance
+-unsa na specializationn ang taas ug passing rate ug pinaka ubos nga need pa ug imporvement.
+-pwede dili confidentials
